@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "module": "es2015",
+        "target": "es6"
+    },
+    "include": [
+        "src/**/*.js"
+    ],
+    "typedocOptions": {
+        "ignoreCompilerErrors": true,
+        "mode": "modules",
+        "out": "./dist/docs"
+    }
+}
+
